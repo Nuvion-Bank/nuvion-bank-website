@@ -1,0 +1,20 @@
+/* Import fonts */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&family=Open+Sans:wght@400;600&display=swap');
+
+/* Applying fonts to the whole body*/
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    line-height: 1.6;
+    overflow-x: hidden;
+  }
+  
+  h1, h2, h3 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+  }
+  
+  a {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+  }
